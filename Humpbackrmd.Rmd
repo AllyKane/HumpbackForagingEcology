@@ -32,9 +32,6 @@ library(readr)
 ```
 ```{r}
 getwd()
-<<<<<<< HEAD
-=======
 read_csv("encounter.csv")
->>>>>>> 23f73b608e0bdab789f18fa3eb83be315b974e7d
 ```
 
