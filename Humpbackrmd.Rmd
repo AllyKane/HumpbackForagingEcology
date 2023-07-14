@@ -33,6 +33,6 @@ library(tidyverse)
 ```
 ```{r}
 getwd()
-read_csv("encounter.csv")
+read_csv("encounter.csv") 
 ```
 
