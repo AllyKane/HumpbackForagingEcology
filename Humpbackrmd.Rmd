@@ -32,5 +32,6 @@ library(readr)
 ```
 ```{r}
 getwd()
+read_csv("encounter.csv")
 ```
 
